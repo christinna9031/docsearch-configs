@@ -1,10 +1,10 @@
 {
   "index_name": "lioranboard",
   "start_urls": [
-    "https://lioranboard.ca/docs/"
+    "https://lioranboard.ca/docs2/"
   ],
   "sitemap_urls": [
-    "https://lioranboard.ca/sitemap.xml"
+    "https://lioranboard.ca/docs2/sitemap.xml"
   ],
   "stop_urls": [],
   "selectors": {
